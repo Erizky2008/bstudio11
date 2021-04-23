@@ -4,7 +4,7 @@
 }
 
 .jumbotron {
-  background: url(../../assets/img/2d4294362968ea8eb867d1df77df3acc.jpg);
+  background: url(../../assets/img/247770567bb07e1e32cbb0e7f65318df.jpg);
 }
 
 .container {
@@ -26,5 +26,17 @@ body {
 #some {
   padding: 20px;
   background-color: #343a40;
+}
+
+#plant {
+  padding: 20px;
+  background-color: #343a40;
+}
+
+.simple-slider .swiper-slide {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
